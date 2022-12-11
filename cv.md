@@ -6,7 +6,7 @@ ______________________________
 *__GitHub__:KsushaZhukova
 ______________________________
 ##__About Me__
-
+I have good time management, communication and teamwork skills. I want to learn and develop new skills.  
 ______________________________
 ##__Skills__
 *HTML
@@ -18,7 +18,7 @@ ______________________________
 
 ______________________________
 ##__Experience__
-
+*I have no experience yet...*
 ______________________________
 ##__Education__
 *University:Moscow State University of Instrument Engineering and Computer Science,marketing specialist
