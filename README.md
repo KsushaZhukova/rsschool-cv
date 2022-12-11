@@ -1,2 +1,1 @@
-# rsschool-cv
-https://KsushaZhukova.github.io/rsschool-cv/cv
+https://github.com/KsushaZhukova/rsschool-cv/blob/rsschool-cv-html/cv.md
