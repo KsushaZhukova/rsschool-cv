@@ -2,8 +2,8 @@
 
 ## __Contacts__
 * __Location__: Moscow, Russia
-* __Email__:ksu0770@mail.ru
-* __GitHub__:KsushaZhukova
+* __Email__: ksu0770@mail.ru
+* __GitHub__: KsushaZhukova
 
 ## __About Me__
 I have good time management, communication and teamwork skills. I want to learn and develop new skills.  
